@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/kaitlynli/Downloads/ECS36B/Li_2.1 Top Common Words_2022-04-28_03-21" -B "/Users/kaitlynli/Downloads/ECS36B/Li_2.1 Top Common Words_2022-04-28_03-21/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kaitlynli/Downloads/ECS36B/Li_2.1 Top Common Words_2022-04-28_03-21/cmake-build-debug

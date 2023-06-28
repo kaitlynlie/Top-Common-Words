@@ -1,0 +1,11 @@
+# ninja log v5
+0	674	1687978032942244809	CMakeFiles/TopCommonWords.dir/main.cpp.o	d3da7bcc6fda8cad
+1	741	1687978033013986127	CMakeFiles/TopCommonWords.dir/counting.cpp.o	340713405f25dc86
+1	729	1687978032999300478	CMakeFiles/TopCommonWords.dir/cleaning.cpp.o	9e301b23f66e6dae
+741	774	1687978033050622521	TopCommonWords	9b214ca9de4c17c2
+8	379	1687978409124289179	CMakeFiles/TopCommonWords.dir/main.cpp.o	d3da7bcc6fda8cad
+8	383	1687978409129124840	CMakeFiles/TopCommonWords.dir/cleaning.cpp.o	9e301b23f66e6dae
+8	391	1687978409137969488	CMakeFiles/TopCommonWords.dir/counting.cpp.o	340713405f25dc86
+392	597	1687978409345233718	TopCommonWords	9b214ca9de4c17c2
+8	566	1687979012489262292	CMakeFiles/TopCommonWords.dir/main.cpp.o	d3da7bcc6fda8cad
+566	757	1687979012683198563	TopCommonWords	9b214ca9de4c17c2
